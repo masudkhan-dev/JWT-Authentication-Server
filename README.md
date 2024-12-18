@@ -8,8 +8,8 @@ JWT Authentication without firebase
  
 > JWT_SECRET= genarte secret in this process:
 
-> in vscode open terminal and type node hit enter
+ in vscode open terminal and type node hit enter
 
 > require('crypto').randomBytes(64).toString('hex')
 
-> copy the result and use it in JWT_SECRET
+ copy the result and use it in JWT_SECRET
